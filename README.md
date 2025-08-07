@@ -10,7 +10,7 @@ This space is a dynamic collection of hands-on assessments, experiments, project
 
 📚 Foundational concepts of GenAI models and architectures 
 
-🧠 Prompt engineering techniques and optimization strategies 
+🧠 Prompt engineering techniques and optimization strategies          
 ⚙️ Integration with platforms like OpenAI, Hugging Face, and LangChain 
 🎨 Experimentation with text, image, and audio generation 
 🧪 Building and fine-tuning custom GenAI applications and models 
