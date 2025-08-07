@@ -23,5 +23,5 @@ Each folder or notebook in this repository is structured as a standalone learnin
 💡 Code implementations and walkthroughs            
 🔍 Key takeaways and reflections 
 
-🎯 Purpose This repository is both a personal learning journal and a community resource. Whether you're a fellow learner, a researcher, or just GenAI-curious, feel free to explore, learn, and build on what's here. 
+🎯 Purpose This repository is both a personal learning journal and a community resource. Whether you're a fellow learner, a researcher, or just GenAI-curious, feel free to explore, learn, and build on what's here.         
 Let’s push the boundaries of what’s possible with Generative AI – one experiment at a time.
