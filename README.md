@@ -19,8 +19,8 @@ This space is a dynamic collection of hands-on assessments, experiments, project
 
 Each folder or notebook in this repository is structured as a standalone learning module or milestone. You’ll find:
 
-✅ Clear explanations and documentation 
-💡 Code implementations and walkthroughs 
+✅ Clear explanations and documentation           
+💡 Code implementations and walkthroughs            
 🔍 Key takeaways and reflections 
 
 🎯 Purpose This repository is both a personal learning journal and a community resource. Whether you're a fellow learner, a researcher, or just GenAI-curious, feel free to explore, learn, and build on what's here. 
