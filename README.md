@@ -8,12 +8,11 @@ This space is a dynamic collection of hands-on assessments, experiments, project
 
 🔍 What You'll Find Here This repository showcases a wide range of GenAI explorations, including: 
 
-📚 Foundational concepts of GenAI models and architectures 
-
+📚 Foundational concepts of GenAI models and architectures         
 🧠 Prompt engineering techniques and optimization strategies          
-⚙️ Integration with platforms like OpenAI, Hugging Face, and LangChain 
-🎨 Experimentation with text, image, and audio generation 
-🧪 Building and fine-tuning custom GenAI applications and models 
+⚙️ Integration with platforms like OpenAI, Hugging Face, and LangChain          
+🎨 Experimentation with text, image, and audio generation          
+🧪 Building and fine-tuning custom GenAI applications and models          
 ✅ Evaluation of GenAI outputs for accuracy, coherence, and creativity 
 
 📁 Structure 
